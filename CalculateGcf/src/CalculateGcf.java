@@ -18,6 +18,8 @@ public class CalculateGcf {
 		value1 = scan.nextInt();
 		System.out.println("Enter value2: ");
 		value2 = scan.nextInt();
+		//System.out.println("Enter multiple values: ");
+		//value = scan.nextInt();
 	}
 
 	public void calculateGcf() {
